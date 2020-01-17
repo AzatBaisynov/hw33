@@ -36,8 +36,6 @@ public class TextClass {
         fileWriter.write("Я не понял    какой текущий код должен был вписать :(");
         fileWriter.close();
 
-
-
         File file = new File("D:/hw33/task_A_1.txt");
         isThereSuchFile(file);
         isWeightOver100(file);
